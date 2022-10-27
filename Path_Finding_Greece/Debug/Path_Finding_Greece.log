@@ -1,0 +1,18 @@
+﻿  Main.cpp
+D:\vs codes\Path_Finding_Greece\Main.cpp(67,24): warning C4101:  'temp_latitude': unreferenced local variable
+D:\vs codes\Path_Finding_Greece\Main.cpp(73,6): warning C4101:  'temp_time': unreferenced local variable
+D:\vs codes\Path_Finding_Greece\Main.cpp(69,18): warning C4101:  'temp_end': unreferenced local variable
+D:\vs codes\Path_Finding_Greece\Main.cpp(75,6): warning C4101:  'flag_for_continue': unreferenced local variable
+D:\vs codes\Path_Finding_Greece\Main.cpp(66,7): warning C4101:  'temp_road_name': unreferenced local variable
+D:\vs codes\Path_Finding_Greece\Main.cpp(69,6): warning C4101:  'temp_start': unreferenced local variable
+D:\vs codes\Path_Finding_Greece\Main.cpp(72,8): warning C4101:  'temp_distance': unreferenced local variable
+D:\vs codes\Path_Finding_Greece\Main.cpp(67,8): warning C4101:  'temp_longitude': unreferenced local variable
+D:\vs codes\Path_Finding_Greece\Main.cpp(74,6): warning C4101:  'flag_for_edit': unreferenced local variable
+  State.cpp
+D:\vs codes\Path_Finding_Greece\Main.cpp(65,7): warning C4101:  'temp_point_name': unreferenced local variable
+  Generating Code...
+D:\vs codes\Path_Finding_Greece\State.cpp(160,20): warning C4018:  '<': signed/unsigned mismatch
+D:\vs codes\Path_Finding_Greece\State.cpp(160,20): warning C4018: D:\vs codes\Path_Finding_Greece\State.cpp(106) : warning C4715: 'State::cost': not all control paths return a value
+D:\vs codes\Path_Finding_Greece\State.cpp(160,20): warning C4018: D:\vs codes\Path_Finding_Greece\State.cpp(120) : warning C4715: 'State::heuristic': not all control paths return a value
+D:\vs codes\Path_Finding_Greece\State.cpp(160,20): warning C4018: D:\vs codes\Path_Finding_Greece\State.cpp(210) : warning C4715: 'operator>': not all control paths return a value
+  Path_Finding_Greece.vcxproj -> D:\vs codes\Path_Finding_Greece\Debug\Path_Finding_Greece.exe
